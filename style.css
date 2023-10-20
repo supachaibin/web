@@ -1,0 +1,30 @@
+
+p{
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    margin:4, auto;
+}
+
+.card{
+    border: 2px solid;
+    border-color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    position: absolute;
+    display: flex;
+    left: 25%;
+    right: 25%;
+    height: 90vh;
+    background-color:seashell;
+}
+.card2{
+    border: 2px solid;
+    border-color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    position: absolute;
+    display: flex;
+    left: 10px;
+    right:77%;
+    height: 50vh;
+    background-color:seashell;
+}
